@@ -1,0 +1,170 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/vlsi/Desktop/CDAC_Project/AXI2SDRAM/Scripts
+T_opt
+!s110 1723875681
+V>ik>iafIOR4fm7B7>FeOB1
+Z1 04 6 4 work tb_top fast 0
+=1-ac15a2303314-66c04160-bb0e3-16712
+Z2 o-quiet -auto_acc_if_foreign -work tb_top -L design +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+T_opt1
+!s110 1724222361
+VX7F?i5>EOzml4^FnHHV^>3
+R1
+=1-e070eab245ab-66c58b99-b4-3218
+R2
+R3
+n@_opt1
+OL;O;10.6c;65
+R0
+YAXI_Interface
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z5 DXx6 mtiUvm 7 uvm_pkg 0 22 oMKUklN?>LE6@MJe7=2><1
+Z6 DXx4 work 14 tb_top_sv_unit 0 22 kkXNOzgT?LL4nC4VHPNmh0
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 jffmjoeYaEL3MMimYG:8U1
+Ic3D4QLdai0X;GU7zj2RR42
+Z8 !s105 tb_top_sv_unit
+S1
+Z9 dD:/Abrar/Project/CDAC_Project/AXI2SDRAM/Scripts
+Z10 w1724215782
+8..\DV\TB\..\AXI\AXI_Interface.sv
+Z11 F..\DV\TB\..\AXI\AXI_Interface.sv
+L0 1
+Z12 OL;L;10.6c;65
+Z13 !s108 1724222547.000000
+!s107 ..\DV\TB\AXI_SDRAM_Test.sv|..\DV\TB\AXI2SDRAM_Environment.sv|..\DV\TB\AXI_SDRAM_Coverage.sv|..\DV\TB\AXI_SDRAM_Scoreboard.sv|..\DV\TB\..\SDRAM\SDRAM_Agent.sv|..\DV\TB\..\SDRAM\SDRAM_Monitor.sv|..\DV\TB\..\SDRAM\SDRAM_Driver.sv|..\DV\TB\..\SDRAM\SDRAM_Sequencer.sv|..\DV\TB\..\SDRAM\SDRAM_Sequence.sv|..\DV\TB\..\SDRAM\SDRAM_base_Sequence.sv|..\DV\TB\..\SDRAM\SDRAM_Packet.sv|..\DV\TB\..\SDRAM\SDRAM_Interface.sv|..\DV\TB\..\AXI\AXI_Agent.sv|..\DV\TB\..\AXI\AXI_Monitor.sv|..\DV\TB\..\AXI\AXI_Driver.sv|..\DV\TB\..\AXI\AXI_Sequencer.sv|..\DV\TB\..\AXI\AXI_Sequence.sv|..\DV\TB\..\AXI\AXI_Base_Sequence.sv|..\DV\TB\..\AXI\AXI_Packet.sv|..\DV\TB\..\AXI\AXI_Interface.sv|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|..\DV\TB\AXI_SDRAM_Pkg.sv|../DV/TB/tb_top.sv|
+Z14 !s90 -work|tb_top|-vopt|-sv|+cover=sbceft1|-stats=none|../DV/TB/tb_top.sv|
+!i113 0
+Z15 !s102 +cover=sbceft1
+Z16 o-work tb_top -sv +cover=sbceft1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+n@a@x@i_@interface
+YSDRAM_Interface
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?3iT<F<l4i]W3TA[azNTK1
+INAO7aI=8LibQBed`Cbe=f3
+R8
+S1
+R9
+R10
+8..\DV\TB\..\SDRAM\SDRAM_Interface.sv
+Z17 F..\DV\TB\..\SDRAM\SDRAM_Interface.sv
+L0 1
+R12
+R13
+Z18 !s107 ..\DV\TB\AXI_SDRAM_Test.sv|..\DV\TB\AXI2SDRAM_Environment.sv|..\DV\TB\AXI_SDRAM_Coverage.sv|..\DV\TB\AXI_SDRAM_Scoreboard.sv|..\DV\TB\..\SDRAM\SDRAM_Agent.sv|..\DV\TB\..\SDRAM\SDRAM_Monitor.sv|..\DV\TB\..\SDRAM\SDRAM_Driver.sv|..\DV\TB\..\SDRAM\SDRAM_Sequencer.sv|..\DV\TB\..\SDRAM\SDRAM_Sequence.sv|..\DV\TB\..\SDRAM\SDRAM_base_Sequence.sv|..\DV\TB\..\SDRAM\SDRAM_Packet.sv|..\DV\TB\..\SDRAM\SDRAM_Interface.sv|..\DV\TB\..\AXI\AXI_Agent.sv|..\DV\TB\..\AXI\AXI_Monitor.sv|..\DV\TB\..\AXI\AXI_Driver.sv|..\DV\TB\..\AXI\AXI_Sequencer.sv|..\DV\TB\..\AXI\AXI_Sequence.sv|..\DV\TB\..\AXI\AXI_Base_Sequence.sv|..\DV\TB\..\AXI\AXI_Packet.sv|..\DV\TB\..\AXI\AXI_Interface.sv|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|..\DV\TB\AXI_SDRAM_Pkg.sv|../DV/TB/tb_top.sv|
+R14
+!i113 0
+R15
+R16
+R3
+n@s@d@r@a@m_@interface
+vtb_top
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+!i10b 1
+!s100 9@J_442Fj:A8=0kcJ2`YD3
+IOlbWXIkfNh^=0C^]<bPVN0
+R8
+S1
+R9
+R10
+Z19 8../DV/TB/tb_top.sv
+Z20 F../DV/TB/tb_top.sv
+L0 5
+R12
+R13
+R18
+R14
+!i113 0
+R15
+R16
+R3
+Xtb_top_sv_unit
+!s115 SDRAM_Interface
+!s115 AXI_Interface
+R4
+R5
+VkkXNOzgT?LL4nC4VHPNmh0
+r1
+!s85 0
+31
+!i10b 1
+!s100 B[>2]Y9HPGR2;_=KI5L471
+IkkXNOzgT?LL4nC4VHPNmh0
+!i103 1
+S1
+R9
+R10
+R19
+R20
+F..\DV\TB\AXI_SDRAM_Pkg.sv
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+FC:/questasim64_10.6c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+R11
+F..\DV\TB\..\AXI\AXI_Packet.sv
+F..\DV\TB\..\AXI\AXI_Base_Sequence.sv
+F..\DV\TB\..\AXI\AXI_Sequence.sv
+F..\DV\TB\..\AXI\AXI_Sequencer.sv
+F..\DV\TB\..\AXI\AXI_Driver.sv
+F..\DV\TB\..\AXI\AXI_Monitor.sv
+F..\DV\TB\..\AXI\AXI_Agent.sv
+R17
+F..\DV\TB\..\SDRAM\SDRAM_Packet.sv
+F..\DV\TB\..\SDRAM\SDRAM_base_Sequence.sv
+F..\DV\TB\..\SDRAM\SDRAM_Sequence.sv
+F..\DV\TB\..\SDRAM\SDRAM_Sequencer.sv
+F..\DV\TB\..\SDRAM\SDRAM_Driver.sv
+F..\DV\TB\..\SDRAM\SDRAM_Monitor.sv
+F..\DV\TB\..\SDRAM\SDRAM_Agent.sv
+F..\DV\TB\AXI_SDRAM_Scoreboard.sv
+F..\DV\TB\AXI_SDRAM_Coverage.sv
+F..\DV\TB\AXI2SDRAM_Environment.sv
+F..\DV\TB\AXI_SDRAM_Test.sv
+L0 2
+R12
+R13
+R18
+R14
+!i113 0
+R15
+R16
+R3
