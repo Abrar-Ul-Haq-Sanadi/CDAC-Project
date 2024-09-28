@@ -21,7 +21,7 @@
 // Design a async_fifo
 
 
-module async_fifo_1#(parameter SIZE=32,WIDTH=6,DEPTH=60)(
+module async_fifo_1#(parameter SIZE=32,WIDTH=8,DEPTH=250)(
         input rd_clk,
         input wr_clk,
         input reset_n,
